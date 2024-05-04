@@ -1,0 +1,6 @@
+[submodule "TPIntegracionBackEnd"]
+	path = TPIntegracionBackEnd
+	url = ./TPIntegracionBackEnd
+[submodule "TPIntegracionFrontEnd"]
+	path = TPIntegracionFrontEnd
+	url = ./TPIntegracionFrontEnd/
