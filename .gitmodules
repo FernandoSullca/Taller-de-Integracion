@@ -1,6 +1,6 @@
 [submodule "TPIntegracionBackEnd"]
 	path = TPIntegracionBackEnd
-	url = https://github.com/FernandoSullca/TPIntegracionBackEnd.git
+	url = https://github.com/FernandoSullca/TPIntegracionBackEnd.git/
 [submodule "TPIntegracionFrontEnd"]
 	path = TPIntegracionFrontEnd
-	url = https://github.com/FernandoSullca/TPIntegracionBackEnd.git
+	url = https://github.com/FernandoSullca/TPIntegracionFrontEnd.git
